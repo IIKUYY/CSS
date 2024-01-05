@@ -1,0 +1,67 @@
+.wh {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 480px) {
+    .wh {
+        content: url(cat.jpeg);
+    }
+}
+
+@media (min-width: 480px) {
+    .wh {
+        content: url(perro.jpg);
+    }
+}
+
+.px {
+    width: 100%;
+    height: auto;
+}
+
+@media (resolution: 1.5dppx), (resolution: 144dpi), (-webkit-device-pixel-ratio: 2) { 
+    .px {
+        content: url(cat.jpeg)
+    } 
+}
+
+@media (resolution: 1dppx), (resolution: 96dpi), (-webkit-device-pixel-ratio: 1) { 
+    .px {
+        content: url(perro.jpg)
+    } 
+}
+
+.or {
+    width: 100%;
+    height: auto;
+}
+
+@media (orientation: portrait) { 
+    .or {
+        content: url(cat.jpeg)
+    } 
+}
+
+@media (orientation: landscape) { 
+    .or {
+        content: url(perro.jpg)
+    } 
+}
+
+.ar {
+    width: 100%;
+    height: auto;
+}
+
+@media (aspect-ratio: 16/9) { 
+    .ar {
+        content: url(cat.jpeg)
+    } 
+}
+
+@media (aspect-ratio: 1/1) { 
+    .ar {
+        content: url(perro.jpg)
+    } 
+}
