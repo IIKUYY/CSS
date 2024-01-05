@@ -11,7 +11,7 @@ The Media queries module has a W3C recommendation, so is implemented in all majo
 
 ### The advantages of Media Queries
 
-If you develop an website for a computer, when a user try to access with a mobile device he might face some issues, some of them:
+If you develop an a website for a computer, when a user try to access with a mobile device he might face some issues, some of them:
 
 - Bad size of font and proportions.
 - Unaccessible menus.
