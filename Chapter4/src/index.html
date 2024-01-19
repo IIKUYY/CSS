@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pseudo-classes and Pseudo-elements</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="index.css" rel="stylesheet">
+    </head>
+    <body>
+    <h1>
+        Example of Pseudo-classes and Pseudo-elements
+    </h1>
+    <div>
+        <h3>
+            List of element
+        </h3>
+    </div>
+    <p>
+        <ul>
+            <li>
+                First Element
+            </li>
+            <li>
+                Second Element 
+            </li>
+            <li>
+                Third Element
+            </li>
+            <li
+            id="last">
+                Fourth Element
+            </li>
+        </ul>
+        <p>
+            Foot of text
+        </p>
+        <p>
+            <a 
+            href="#last">Click to change color of the last element</a>
+        </p>
+    </p>
+    <form>
+        <fieldset>
+            <legend>
+                UI elements
+            </legend>
+            <input 
+            type="text"
+            value="Example"
+            disabled>
+            <input 
+            type="text"
+            value="Example">
+        </fieldset>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+        
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required min="18" max="100">
+        
+        <button type="submit">Submit</button>
+    </form>
+    </body>
+</html>

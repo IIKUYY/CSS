@@ -1,0 +1,62 @@
+div > h3:first-child {
+    font-style: italic;
+}
+ul li:nth-of-type(even) {
+    background-color: #ddd;
+}
+ul li:nth-last-of-type(1) {
+    font-style: italic;
+}
+div h3:only-child {
+    color: red;
+}
+ul li:last-child:target {
+    color:blue;
+}
+p > ul li:empty {
+    background-color: yellow;
+}
+p:not(ul) {
+    text-decoration: underline;
+}
+input[type='text']:disabled { 
+    border: 1px dotted gray; 
+}
+input[type='text']:enabled { 
+    border: 1px solid black; 
+}
+input:required {
+    background-color: beige;
+}
+input:optional {
+    background-color: blanchedalmond;
+}
+input:valid {
+    color: green;
+}
+input:invalid {
+    color: red;
+}
+input:in-range {
+    color: green;
+}
+input:out-of-range {
+    color: red;
+}
+p::first-line {
+    font-weight: bolder;
+}
+p::first-letter {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a::after {
+    content: "(Click me)"; 
+    color: aqua;
+}
+a::before {
+    content: "(Click me)";
+     color: aqua;}
+::selection {
+    background-color: blueviolet; 
+    color: beige;
+}

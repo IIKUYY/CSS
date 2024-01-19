@@ -1,0 +1,14 @@
+/*Attribute selectors*/
+a[rel] {font-size: larger;}
+a[rel='example'] {color:red;}
+a[rel~='example'] {font-weight: bold;}
+a[lang|='es'] {font-style: italic;}
+
+/*New Attribute selectors*/
+a[href^='http'] {color:blue}
+a[href$='jpg'] {color: red;}
+a[title*='link'] {font-size: xx-large;}
+
+/*Combinators*/
+h3+u{font-size: larger;}
+h3~u{font-weight: bolder;}
