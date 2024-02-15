@@ -1,0 +1,20 @@
+.space {
+  height: 1000px;
+  width: 1000px;
+  background-image: url(pattern.png);
+  background-repeat: space;
+}
+
+.round {
+  height: 1000px;
+  width: 1000px;
+  background-image: url(pattern.png);
+  background-repeat: round;
+}
+.multi {
+  width: 1920px;
+  height: 1080px;
+  background:
+    url(cat.png) no-repeat border-box 80% 100% / 20% 20%,
+    url(background.jpg) padding-box no-repeat 50% 50% / auto;
+}
