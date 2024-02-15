@@ -1,0 +1,14 @@
+.main {
+  columns: 200px 5;
+  column-fill: balance;
+  column-rule: 0.3em double gold;
+  column-gap: 2em;
+}
+h1.title {
+  column-span: all;
+  color: grey;
+}
+h2 {
+  column-span: all;
+  color: purple;
+}
