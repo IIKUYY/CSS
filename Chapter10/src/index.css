@@ -1,0 +1,38 @@
+.colors {
+    display: flex;
+}
+.HSL {
+    width: 100px;
+    height: 100px;
+    background-color: hsl(120, 72%, 44%);
+    color: hsl(0,0%,0%);
+    text-align: center;
+}
+.HSLA {
+    width: 100px;
+    height: 100px;
+    background-color: hsla(120, 72%, 44%, 0.5);
+    color: hsl(0,0%,0%);
+    text-align: center;
+}
+.RGB {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(6, 97, 82);
+}
+.RGBA {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(6, 97, 82, 0.5);
+}
+h2 {
+    color:white;
+    background-color: black;
+}
+.ccolor {
+    color: black;
+    background-color: white;
+}
+h2 abbr {
+    border-bottom: 6px double currentColor;
+}
