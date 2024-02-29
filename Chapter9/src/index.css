@@ -1,0 +1,36 @@
+.rounded-box {
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  border-radius: 20px;
+  color: #fff;
+  text-align: center;
+}
+.border-image {
+  width: 200px;
+  height: 200px;
+  border: 30px solid;
+  border-image: repeating-linear-gradient(45deg, #f33, #3bf, #f33 30px) 60;
+  padding: 20px;
+}
+.border-image2 {
+  width: 200px;
+  height: 200px;
+  border: 50px solid;
+  border-image: url(border.png); 
+  padding: 20px;
+}
+.shadow {
+  width: 200px;
+  height: 200px;
+  background-color: bisque;
+  color: black;
+  box-shadow: 4px 4px 2px #3bf;
+}
+.shadow2 {
+  width: 200px;
+  height: 200px;
+  background-color: bisque;
+  color: black;
+  box-shadow: inset 4px 4px 2px #3bf;
+}
