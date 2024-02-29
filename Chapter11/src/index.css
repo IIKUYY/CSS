@@ -1,0 +1,15 @@
+.father {
+    display: flex;
+}
+.radial {
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(closest-corner circle at 0% 50%, red, blue, transparent 50%), 
+                      repeating-radial-gradient(closest-corner circle at 0% 50%, black, white, black 50%);
+}
+.linear {
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to right bottom, white 25%, black 75%, transparent 25%),
+                      repeating-linear-gradient(to right top, red 5%, blue 10%);
+}   
