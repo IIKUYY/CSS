@@ -1,0 +1,47 @@
+.father {
+    display: flex;
+}
+.t1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    transition: background-color 1s linear 500ms;
+}
+.t1:hover {
+    background-color: silver;
+}
+.t2 {
+    background-color: silver;
+    height: 100px;
+    width: 100px;
+    transition: background-color 1s ease 500ms;
+}
+.t2:hover {
+    background-color: black;
+}
+@keyframes anim1 {
+    from { 
+        background-color: grey;
+    }
+    to {
+        background-color: aliceblue;
+    }
+}
+.a1 {
+    background-color: silver;
+    height: 100px;
+    width: 100px;
+    animation: anim1 2s ease 500ms infinite alternate forwards running;
+}
+.a1:hover {
+    animation-play-state: paused;
+}
+.a2 {
+    background-color: silver;
+    height: 100px;
+    width: 100px;
+    animation: anim1 2s ease 500ms infinite alternate forwards paused;
+}
+.a2:hover {
+    animation-play-state: running;
+}
