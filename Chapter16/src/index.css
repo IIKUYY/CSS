@@ -1,0 +1,47 @@
+.section {
+    background-color: antiquewhite;
+}
+.em li {
+    font-size: 2em;
+}
+.rem li {
+    font-size: 2rem;
+}
+.vw li {
+    font-size: 2vw;
+}
+.vh li {
+    font-size: 2h;
+}
+.box {
+    display: flex;
+}
+.container {
+    background-color: antiquewhite;
+}
+.a {
+    flex-wrap: wrap;
+    width: max-content;
+    height: max-content;
+}
+.b {
+    flex-wrap: wrap;
+    height: fit-content;
+    width: fit-content;
+}
+.item {
+    background-color: aqua;
+}
+.text {
+    margin: 2px;
+    width: fill;
+    background-color: white;
+}
+.max {
+    height: 200px;
+    width: 200px;
+}
+.min {
+    height: 100px;
+    width: 100px;
+}
