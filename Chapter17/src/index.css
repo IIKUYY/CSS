@@ -1,0 +1,45 @@
+.main {
+    margin-bottom: 5vh;
+}
+.grid {
+    background-color: antiquewhite;
+    width: 800px;
+    height: 200px;
+    display: grid;
+    grid-template-areas:
+    'a b'
+    'a c';
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+.grid2 {
+    display: grid;
+    height: 400px;
+    width: 600px;
+    background-color: antiquewhite;
+    grid-template: repeat(3, 200px) / repeat(2, 200px);
+}
+.one {
+    background-color: blue;
+    grid-area: a;
+}
+.two {
+    background-color: red;
+    grid-area: b;
+}
+.large {
+    background-color: red;
+    grid-column: 1 / 3;
+    grid-row: 1 / 3;
+}
+.short {
+    background-color: blue;
+    grid-column: 2 / 4;
+    grid-row: 2;
+}
+.z1 {
+    z-index: 2;
+}
+.z2 {
+    z-index: 1;
+}
