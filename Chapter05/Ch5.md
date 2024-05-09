@@ -203,6 +203,6 @@ you can also modified position with values as super or subscript or kerning
 | font-variant-*        |   Yes  |    No   |   Yes  |  No  |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter4/Ch4.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter4/Ch4.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter04/Ch4.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter05/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter06/Ch6.md)

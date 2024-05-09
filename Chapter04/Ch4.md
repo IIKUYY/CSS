@@ -198,6 +198,6 @@ this pseudo-element let you stylize the element the user is selection in the pag
 | Constrain validation          |   Yes  |    Yes  |   Yes  | IE10 |
 | ::selection                   |   Yes  |    Yes  |   Yes  |  Yes |
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter3/Ch3.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter5/Ch5.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter03/Ch3.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter04/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter05/Ch5.md)

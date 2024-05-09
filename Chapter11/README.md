@@ -1,3 +1,5 @@
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Gradients](https://github.com/IIKUYY/CSS/tree/main/Chapter11/Ch11.md)
+## [Index](https://github.com/IIKUYY/CSS/main/README.md)
+## [Gradients](https://github.com/IIKUYY/CSS/blob/main/Chapter11/Ch11.md)
 
+### [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter10/README.md)
+### [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter14/README.md)

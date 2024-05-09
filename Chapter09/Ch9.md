@@ -135,6 +135,6 @@ This option as mention in the previous section set the shadow inside the box of 
 | border-shadow     |   Yes  |    Yes  |   Yes  |  Yes |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter8/Ch8.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter10/Ch10.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter08/Ch8.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter09/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter10/Ch10md)

@@ -111,6 +111,6 @@ This property was updated to include the new properties, the rules are the next,
 | background-origin            |   Yes  |    Yes  |   Yes  |  Yes |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter7/Ch7.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter9/Ch9.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter07/Ch7.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter08/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter09/Ch9md)

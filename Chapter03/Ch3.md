@@ -114,6 +114,6 @@ the key difference is that  while the adjacent combinator only selects elements 
 |  New attributes    |   Yes  |    Yes  |   Yes  | Yes |
 | General combinator |   Yes  |    Yes  |   Yes  | Yes |
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter2/Ch2.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter4/Ch4.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter02/Ch2.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter03/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter04/Ch4.md)
