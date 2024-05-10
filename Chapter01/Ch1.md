@@ -59,5 +59,5 @@ E {
 }
 ```
 
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter2/Ch2.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter01/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter02/Ch2.md)

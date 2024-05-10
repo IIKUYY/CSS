@@ -99,6 +99,6 @@ the value only can be one of two, all or none, the default is none were the elem
 | column-span    |   Yes  |    No   |   Yes  | IE10 |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter6/Ch6.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter7/Ch7.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter06/Ch6.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter07/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter08/Ch8md)

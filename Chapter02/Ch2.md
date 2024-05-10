@@ -160,6 +160,6 @@ A  now common practice in web development is to design the page first for smalle
 | Queries |   Yes  |    Yes  |   Yes  | Yes |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter1/Ch1.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter3/Ch3.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter01/Ch1.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter02/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter03/Ch3.md)

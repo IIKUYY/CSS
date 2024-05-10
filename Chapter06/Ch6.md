@@ -102,6 +102,6 @@ The keyword determine in witch direction the element can be dragged, horizontal,
 | resize                  |   Yes  |    Yes  |   Yes  |  No  |
 
 
-## [Prev](https://github.com/IIKUYY/CSS/tree/main/Chapter5/Ch5.md)
-## [Index](https://github.com/IIKUYY/CSS/tree/main/index.md)
-## [Next](https://github.com/IIKUYY/CSS/tree/main/Chapter6/Ch6.md)
+## [Prev](https://github.com/IIKUYY/CSS/blob/main/Chapter05/Ch5.md)
+## [Index](https://github.com/IIKUYY/CSS/blob/main/Chapter06/README.md)
+## [Next](https://github.com/IIKUYY/CSS/blob/main/Chapter07/Ch7.md)
